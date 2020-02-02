@@ -1,5 +1,6 @@
 def my_hash = {"name" => "Samantha", "age" => "25"}
 end
+end
 
 
 def shipping_manifest
