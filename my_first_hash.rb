@@ -1,5 +1,4 @@
-def my_hash = {
-
+def my_hash = {"name" ==> "Samantha", 
   
 end
 
